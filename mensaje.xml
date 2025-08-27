@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="es-ES">
+        ¡Hola mamá! Soy Héctor, este es un mensaje de prueba desde mi programa de python. Lo he hecho para probar la función de tu móvil de detección de llamadas fraudulentas.
+    </Say>
+</Response>
